@@ -1,0 +1,176 @@
+{
+    "subject_lines": [
+        {"line": 1, "subjects": ["sb1", "sb2"]},
+        {"line": 2, "subjects": ["sb6", "sb14", "sb3"]},
+        {"line": 3, "subjects": ["sb4", "sb13"]},
+        {"line": 4, "subjects": ["sb9", "sb12", "sb5"]},
+        {"line": 5, "subjects": ["sb10", "sb19"]},
+        {"line": 6, "subjects": ["sb7", "sb16"]},
+        {"line": 7, "subjects": ["sb20", "sb15"]},
+        {"line": 8, "subjects": ["sb8", "sb11", "sb17", "sb18"]}
+    ],
+    "clashes": [
+        {
+            "student": "st1",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st2",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st3",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st6",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st8",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st10",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st12",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st13",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st15",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st17",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st19",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st20",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st23",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st24",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st26",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st29",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st31",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st32",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st34",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st36",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st38",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st40",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st42",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st43",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st45",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        },
+        {
+            "student": "st47",
+            "clashes": {
+                "line 2": ["sb6", "sb14"]
+            }
+        },
+        {
+            "student": "st49",
+            "clashes": {
+                "line 2": ["sb6"]
+            }
+        }
+    ]
+}
